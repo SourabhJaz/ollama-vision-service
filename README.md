@@ -47,7 +47,7 @@ Ollama is used to run the LLaVA model locally for image description.
 
 1. **Clone/Navigate to the repository**
    ```bash
-   cd flask-image-description
+   cd ollama-vision-service
    ```
 
 2. **Create and activate a virtual environment**
